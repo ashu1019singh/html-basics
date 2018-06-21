@@ -1,0 +1,10 @@
+.main-content {
+	margin: 0 30% 0 30%;
+}
+
+.blockquote-border-one {
+	//border-style: solid;
+	//border-width: 2px;
+	//border-color: paleturquoise;
+	border: 1px solid blue;
+}
